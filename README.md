@@ -7,8 +7,8 @@
 |3. |Link github | https://github.com/paramithawa |
 |4.| Link Edabit | https://edabit.com/user/DmY4hWmevmMM3HkKv |
 |5|Exp Edabit   |  65 |
-|6| Link Codewars|    |
-|7| Level Jyu Codewars||
+|6| Link Codewars|  https://www.codewars.com/users/paramithawa  |
+|7| Level Jyu Codewars| 8 |
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
